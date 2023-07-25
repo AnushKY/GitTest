@@ -1,0 +1,2 @@
+file:src/test/resources/web/component/demo.feature:12
+file:src/test/resources/web/component/launchHome.feature:12
